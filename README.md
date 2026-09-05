@@ -120,7 +120,54 @@ A web platform for managing digital services, transactions, customer balances, a
 - PHP & MySQL
 - REST APIs
 
+## 📸 HTMA Platform — Screenshots
+
+### 🏠 Public University Website
+Official university landing page showcasing the platform's public-facing interface.
+
+![HTMA Home](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/01-home.jpg)
+
 ---
+
+### 🔐 Authentication & Role Selection
+Secure authentication interface with role-based access for students, doctors, and administrators.
+
+![HTMA Login](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/02-login.jpg)
+
+---
+
+### 👨‍💼 Admin Dashboard
+Centralized administrative dashboard for managing the university platform and monitoring system activity.
+
+![HTMA Admin Dashboard](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/03-admin-dashboard.jpg)
+
+---
+
+### 🎓 Student Portal
+Student workspace for accessing academic information, courses, schedules, files, and platform services.
+
+![HTMA Student Dashboard](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/04-student-dashboard.jpg)
+
+---
+
+### 🤖 Smart AI Assistant & File Chat
+AI-powered assistant designed to interact with academic files and provide intelligent assistance.
+
+![HTMA Smart Assistant](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/05-smart-assistant.jpg)
+
+---
+
+### 👨‍🏫 Doctor Portal
+Dedicated academic workspace for doctors to manage courses, lectures, students, and academic activities.
+
+![HTMA Doctor Dashboard](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/06-doctor-dashboard.jpg)
+
+---
+
+### 📊 Admin System Monitoring
+System monitoring interface for reviewing alerts, activities, and important administrative events.
+
+![HTMA Admin Alerts](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/07-admin-alerts.jpg) 
 
 ## 📌 Other Projects
 
