@@ -52,7 +52,7 @@ I enjoy turning ideas and requirements into complete systems — from database d
 
 ## ⭐ Featured Projects
 
-### 🎓 Smart University Platform — HTMA
+### 🎓 HTMA Smart University Platform
 
 A comprehensive smart university platform designed to connect students, doctors, and university administration through a unified digital environment.
 
@@ -62,18 +62,20 @@ A comprehensive smart university platform designed to connect students, doctors,
 - Attendance and grades
 - Schedules and notifications
 - Digital library
-- AI assistant
+- AI Assistant
 - RAG and document processing
 - OCR
 - Smart recommendations
 - PostgreSQL / Supabase
 - React & TypeScript
 
+**Links:**  
+[💻 GitHub Repository](https://github.com/zain-alabidin-mayhoub/htma-smart-university) · [🏷️ v1.0.0 Release](https://github.com/zain-alabidin-mayhoub/htma-smart-university/releases/tag/v1.0.0)
+
 ---
+### 🛍️ ALMA — Multi-Vendor Marketplace
 
-### 🛍️ Alma — Multi-Vendor Marketplace
-
-A scalable e-commerce and marketplace platform designed to support multiple stores, restaurants, service providers, and other local businesses.
+A scalable e-commerce and marketplace platform designed to support multiple stores, restaurants, service providers, and local businesses.
 
 **Highlights:**
 - Multi-vendor architecture
@@ -87,26 +89,11 @@ A scalable e-commerce and marketplace platform designed to support multiple stor
 - React & TypeScript
 - MySQL
 
----
-
-### 🏠 AL-Saba — Homeware E-Commerce Platform
-
-A specialized e-commerce platform developed for a real-world homeware business, including customer-facing shopping features and an administrative management system.
-
-**Highlights:**
-- Product and category management
-- Shopping cart and checkout
-- Order management and tracking
-- Customer support conversations
-- Admin dashboard
-- Authentication and authorization
-- PHP REST-style APIs
-- React & TypeScript
-- MySQL
+🌐 [Live Demo](https://almamalll.com/)
 
 ---
 
-### 🔌 STS — Services Management Platform
+### ⚡ STS — Services Management Platform
 
 A web platform for managing digital services, transactions, customer balances, and external service integrations.
 
@@ -119,6 +106,28 @@ A web platform for managing digital services, transactions, customer balances, a
 - Admin dashboard
 - PHP & MySQL
 - REST APIs
+
+🌐 [Live Demo](https://yamencenter.com/)
+
+---
+
+### 📱 Mobile World — عالم الموبايل
+
+A real-world digital services platform focused on mobile products, electronic services, and customer account management.
+
+**Highlights:**
+- Customer accounts and authentication
+- Wallet and balance management
+- Mobile services
+- Internet services
+- Game and program top-ups
+- Digital payment services
+- Service requests and transactions
+- User dashboard
+- Arabic RTL interface
+
+🌐 [Live Demo](https://mobile-world.net/)
+---
 
 ## 📸 HTMA Platform — Screenshots
 
