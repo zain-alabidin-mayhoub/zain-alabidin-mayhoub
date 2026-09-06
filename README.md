@@ -179,11 +179,32 @@ System monitoring interface for reviewing alerts, activities, and important admi
 
 ## 📌 Other Projects
 
-### 🏪 Local Business Management System
+### 🛍️ Saba Store — متجر صبا
 
-A local management system developed for a small family business to manage customers, invoices, payments, debts, and financial reports.
+A full-stack e-commerce platform for managing products, categories, customers, orders, payments, and store operations through a modern Arabic RTL interface.
 
-**Technologies:** PHP • MySQL • PDO • JavaScript
+**Highlights:**
+- Customer registration and authentication
+- Product and category management
+- Product search and detailed product pages
+- Shopping cart and checkout
+- Order creation and tracking
+- Customer order history
+- Payment management
+- Customer–admin messaging
+- Comprehensive admin dashboard
+- Product, order, user, and store management
+- Sales and platform statistics
+- Responsive Arabic RTL interface
+
+**Technologies:** React • TypeScript • Vite • Tailwind CSS • PHP • MySQL • PDO • REST APIs
+
+**My Role:** Design & Development
+
+**Source Code:** Private / Proprietary — source code is not publicly available.
+
+**Project Status:** Production E-Commerce Platform
+
 
 ---
 
