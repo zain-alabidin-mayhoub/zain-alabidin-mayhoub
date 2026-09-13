@@ -1,4 +1,4 @@
-# Hi, I'm Zain Alabidin Samer Mayhoub 👋
+# Hi, I'm Zain Alabidin Samer Mayhoub 
 
 ### Full-Stack Web Developer | Information & Communication Technology Engineer
 
@@ -8,19 +8,19 @@ I enjoy turning ideas and requirements into complete systems — from database d
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Information & Communication Technology Engineering graduate — Tartous University
-- 💻 Full-Stack Web Developer
-- 🌐 Experienced in building web platforms, e-commerce systems, dashboards, and business applications
-- 🤖 Interested in AI-powered applications, RAG, OCR, and intelligent digital platforms
-- 🗄️ Experienced with relational databases and data-driven applications
-- 🔌 Experienced in REST API development and third-party API integration
-- 🧩 Interested in building scalable and maintainable software systems
+-  Information & Communication Technology Engineering graduate — Tartous University
+-  Full-Stack Web Developer
+-  Experienced in building web platforms, e-commerce systems, dashboards, and business applications
+-  Interested in AI-powered applications, RAG, OCR, and intelligent digital platforms
+-  Experienced with relational databases and data-driven applications
+-  Experienced in REST API development and third-party API integration
+-  Interested in building scalable and maintainable software systems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -49,9 +49,9 @@ I enjoy turning ideas and requirements into complete systems — from database d
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 🎓 HTMA Smart University Platform
+###  HTMA Smart University Platform
 
 A comprehensive smart university platform designed to connect students, doctors, and university administration through a unified digital environment.
 
@@ -69,10 +69,10 @@ A comprehensive smart university platform designed to connect students, doctors,
 - React & TypeScript
 
 **Links:**  
-[💻 GitHub Repository](https://github.com/zain-alabidin-mayhoub/htma-smart-university) · [🏷️ v1.0.0 Release](https://github.com/zain-alabidin-mayhoub/htma-smart-university/releases/tag/v1.0.0)
+[ GitHub Repository](https://github.com/zain-alabidin-mayhoub/htma-smart-university) · [🏷️ v1.0.0 Release](https://github.com/zain-alabidin-mayhoub/htma-smart-university/releases/tag/v1.0.0)
 
 ---
-### 🛍️ ALMA — Multi-Vendor Marketplace
+###  ALMA — Multi-Vendor Marketplace
 
 A scalable e-commerce and marketplace platform designed to support multiple stores, restaurants, service providers, and local businesses.
 
@@ -92,7 +92,7 @@ A scalable e-commerce and marketplace platform designed to support multiple stor
 
 ---
 
-### ⚡ STS — Services Management Platform
+###  STS — Services Management Platform
 
 A web platform for managing digital services, transactions, customer balances, and external service integrations.
 
@@ -110,7 +110,7 @@ A web platform for managing digital services, transactions, customer balances, a
 
 ---
 
-### 📱 Mobile World — عالم الموبايل
+###  Mobile World — عالم الموبايل
 
 A real-world digital services platform focused on mobile products, electronic services, and customer account management.
 
@@ -128,58 +128,58 @@ A real-world digital services platform focused on mobile products, electronic se
 🌐 [Live Demo](https://mobile-world.net/)
 ---
 
-## 📸 HTMA Platform — Screenshots
+## HTMA Platform — Screenshots
 
-### 🏠 Public University Website
+###  Public University Website
 Official university landing page showcasing the platform's public-facing interface.
 
 ![HTMA Home](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/01-home.jpg)
 
 ---
 
-### 🔐 Authentication & Role Selection
+###  Authentication & Role Selection
 Secure authentication interface with role-based access for students, doctors, and administrators.
 
 ![HTMA Login](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/02-login.jpg)
 
 ---
 
-### 👨‍💼 Admin Dashboard
+###  Admin Dashboard
 Centralized administrative dashboard for managing the university platform and monitoring system activity.
 
 ![HTMA Admin Dashboard](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/03-admin-dashboard.jpg)
 
 ---
 
-### 🎓 Student Portal
+###  Student Portal
 Student workspace for accessing academic information, courses, schedules, files, and platform services.
 
 ![HTMA Student Dashboard](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/04-student-dashboard.jpg)
 
 ---
 
-### 🤖 Smart AI Assistant & File Chat
+###  Smart AI Assistant & File Chat
 AI-powered assistant designed to interact with academic files and provide intelligent assistance.
 
 ![HTMA Smart Assistant](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/05-smart-assistant.jpg)
 
 ---
 
-### 👨‍🏫 Doctor Portal
+###  Doctor Portal
 Dedicated academic workspace for doctors to manage courses, lectures, students, and academic activities.
 
 ![HTMA Doctor Dashboard](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/06-doctor-dashboard.jpg)
 
 ---
 
-### 📊 Admin System Monitoring
+###  Admin System Monitoring
 System monitoring interface for reviewing alerts, activities, and important administrative events.
 
 ![HTMA Admin Alerts](https://raw.githubusercontent.com/zain-alabidin-mayhoub/htma-smart-university/main/07-admin-alerts.jpg) 
 
-## 📌 Other Projects
+##  Other Projects
 
-### 🛍️ Saba Store — متجر صبا
+###  Saba Store — متجر صبا
 
 A full-stack e-commerce platform for managing products, categories, customers, orders, payments, and store operations through a modern Arabic RTL interface.
 
@@ -208,10 +208,10 @@ A full-stack e-commerce platform for managing products, categories, customers, o
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 📧 Email: zien.mayhoub.za@gmail.com
-- 💻 GitHub: [zain-alabidin-mayhoub](https://github.com/zain-alabidin-mayhoub)
+-  Email: zien.mayhoub.za@gmail.com
+-  GitHub: [zain-alabidin-mayhoub](https://github.com/zain-alabidin-mayhoub)
 
 ---
 
